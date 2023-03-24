@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "ProfileLikelihood"]
+	path = ProfileLikelihood
+	url = https://github.com/cran/ProfileLikelihood
+	shallow = true
+	registered = true
