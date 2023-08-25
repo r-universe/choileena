@@ -4,4 +4,4 @@
 	branch = HEAD
 [submodule "ProfileLikelihood"]
 	path = ProfileLikelihood
-	url = https://github.com/cran/ProfileLikelihood
+	url = https://github.com/choileena/profilelikelihood
